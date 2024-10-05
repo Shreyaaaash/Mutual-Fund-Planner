@@ -26,8 +26,8 @@ This project analyzes Nifty50 stocks to compare mutual funds and growth rate com
 ## Results
 
 ### Expected ROI Comparison
-![ROI Comparison](![image](https://github.com/user-attachments/assets/b8ebc0a7-3617-41d2-aafb-6e63a1e29c01)
-)
+![image](https://github.com/user-attachments/assets/b8ebc0a7-3617-41d2-aafb-6e63a1e29c01)
+
 
 This chart compares the expected ROI of mutual funds and growth rate companies. Key observations:
 - Growth rate companies generally show higher expected ROI.
@@ -35,16 +35,16 @@ This chart compares the expected ROI of mutual funds and growth rate companies. 
 - HDFCBANK.NS and ICICIBANK.NS show promising ROI among mutual fund companies.
 
 ### Projected Investment Value
-![Investment Projection](![image](https://github.com/user-attachments/assets/70bb9d65-7dd3-4013-852d-f3ad655c8cdc)
-)
+![image](https://github.com/user-attachments/assets/70bb9d65-7dd3-4013-852d-f3ad655c8cdc)
+
 
 This graph projects the future value of a ₹5000 monthly investment in mutual funds:
 - After 10 years, the investment is expected to grow to approximately ₹859,317.
 - The growth curve shows compounding effects, with accelerated growth in later years.
 
 ### Stock Price Trends
-![Stock Prices](![image](https://github.com/user-attachments/assets/8c9dd780-f76c-425d-8a60-85b7dd49b2f5)
-)
+![image](https://github.com/user-attachments/assets/8c9dd780-f76c-425d-8a60-85b7dd49b2f5)
+
 
 This visualization shows the stock price trends of Nifty50 companies:
 - SHREECEM.NS has the highest stock price as of August 26, 2024.
